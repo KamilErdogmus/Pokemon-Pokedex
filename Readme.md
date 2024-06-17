@@ -1,5 +1,7 @@
 # Pokemon Pokedex Website
 
+## Description
+
 This is a web application developed for Pokemon Pokedex.
 
 ## Technologies Used
@@ -16,17 +18,6 @@ This is a web application developed for Pokemon Pokedex.
 
 [Website](https://663c4f8818797c54d28d39f8--bucolic-licorice-5cde35.netlify.app/)
 
-## Description
-
-Describe your website here. Include its purpose, features, and any other relevant information.
-
-## How to Use
-
-Provide instructions on how to use your website, including how to search for Pokemon.
-
-## Installation
-
-If there are any specific installation steps required for your website, mention them here.
 
 ## Contributing
 
