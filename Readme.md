@@ -10,6 +10,14 @@ This is a web application developed for Pokemon Pokedex.
 - CSS
 - JavaScript
 
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   https://github.com/KamilErdogmus/Pokemon-Pokedex.git
+   ```
+2. Open the index.html file in your browser
+
 # GIF
 
 ![](Pokemon.gif)
@@ -18,14 +26,3 @@ This is a web application developed for Pokemon Pokedex.
 
 [Website](https://663c4f8818797c54d28d39f8--bucolic-licorice-5cde35.netlify.app/)
 
-
-## Contributing
-
-If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -am 'Add new feature'`)
-5. Push to the branch (`git push origin feature/your-feature`)
-6. Create a new Pull Request
