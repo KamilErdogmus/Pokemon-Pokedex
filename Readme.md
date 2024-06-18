@@ -14,7 +14,7 @@ This is a web application developed for Pokemon Pokedex.
 
 1. Clone the repository:
    ```bash
-   https://github.com/KamilErdogmus/Pokemon-Pokedex.git
+   git clone https://github.com/KamilErdogmus/Pokemon-Pokedex.git
    ```
 2. Open the index.html file in your browser
 
