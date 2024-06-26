@@ -89,6 +89,7 @@ const createPokemonCard = (pokemon) => {
               <i class="fa-brands fa-uncharted"></i> <span>${pokemonType}</span>
             </h5>
           </div>
+        </div>
   `;
 
   pokemonDiv.innerHTML = pokemonInnerHTML;
